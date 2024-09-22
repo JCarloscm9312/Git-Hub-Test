@@ -9,8 +9,6 @@ Resumen del proyecto
 instrucciones de uso
 
 
-licensia 
-
 Contacto
 
 ## JCarlos
